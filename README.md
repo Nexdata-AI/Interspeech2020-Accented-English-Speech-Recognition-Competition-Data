@@ -1,8 +1,10 @@
 # Interspeech2020-Accented-English-Speech-Recognition-Competition-Data
-https://www.datatang.ai/datasets/1169
+
 
 ## Description
 Interspeech2,020 Accented English Speech Recognition Competition Data. The text has been proofread manually with high accuracy; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
+
+For more details, please refer to the link: https://bit.ly/3C9ZZTB
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel.
@@ -24,3 +26,6 @@ English
 
 ## Applications
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
