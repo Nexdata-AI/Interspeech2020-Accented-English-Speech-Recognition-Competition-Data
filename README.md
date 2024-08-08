@@ -4,7 +4,7 @@
 ## Description
 Interspeech2,020 Accented English Speech Recognition Competition Data. The text has been proofread manually with high accuracy; this data set can be used for automatic speech recognition, machine translation, and voiceprint recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1169?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1169?source=Github
 
 
 ## Format
